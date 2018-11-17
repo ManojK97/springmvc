@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Nov 17 17:54:03 IST 2018
+org.eclipse.jst.jee.server\:/binary\:D\:\\Spring\\SpringAnnotation1\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Spring\\SpringAnnotation1\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE-sources.jar
